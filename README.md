@@ -59,12 +59,6 @@ The pilot will take place in the **Midden-Limburg** area. The mobile app must:
 
 We use **Linear** for project management and task tracking. To join our project board, click the link below:
 
-- [Linear Board](https://linear.app/bent-synergy/join/cdcf41bfc8ef89e3b65496d88954a0f1?s=4)
-
-For team communication and collaboration, join us on **Slack**:
-
-- [Slack Channel](https://join.slack.com/t/bent-synergy/shared_invite/zt-2q0pxsuwy-kq6eUiZi3lbDIc8dhthYNg)
-
 ## Development Guidelines
 
 ### Branch Structure
